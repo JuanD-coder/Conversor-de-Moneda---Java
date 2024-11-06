@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9be402e1-6d1a-4e40-8ed0-dda71f598e87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/juan/dev/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/juan/dev/Model/ApiConexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/juan/dev/Model/ExchangeRateAPI.java" afterDir="false" />
-    </list>
+    <list default="true" id="9be402e1-6d1a-4e40-8ed0-dda71f598e87" name="Changes" comment="Feat: (Push del proyecto)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +81,15 @@
       <option name="presentableId" value="Default" />
       <updated>1730917553896</updated>
     </task>
+    <task id="LOCAL-00001" summary="Feat: (Push del proyecto)">
+      <option name="closed" value="true" />
+      <created>1730931358621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730931358621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: (Push del proyecto)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: (Push del proyecto)" />
   </component>
 </project>
